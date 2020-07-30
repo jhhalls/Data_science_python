@@ -1,3 +1,7 @@
+"""
+@author : jhhalls
+"""
+
 # Simple Linear Regression
 # Linear regression assumes a linear or straight line relationship between the input variables (X) and the single output variable (y).
 
